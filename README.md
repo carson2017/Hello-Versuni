@@ -1,5 +1,6 @@
 # Hello-Versuni
 
-# add feature-A
-# add feature-B
+- add feature-A
+- add feature-B
+- fix bug: add fix-C branch
 
